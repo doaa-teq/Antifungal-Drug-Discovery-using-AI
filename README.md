@@ -1,4 +1,4 @@
-# AI for Drug Discovery: Antifungal Drug Development
+# AI for Drug Discovery: Antifungal Drug
 
 ## Overview
 This project leverages **artificial intelligence (AI) and machine learning (ML)** techniques to aid in antifungal drug discovery. The notebook explores computational approaches for predicting drug efficacy, molecular docking, and screening potential antifungal compounds.
