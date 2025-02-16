@@ -1,1 +1,1 @@
-# Antifungal-Drug-discovery-using-AI-and-bioinformatics
+# Antifungal-Drug-Discovery-using-AI
