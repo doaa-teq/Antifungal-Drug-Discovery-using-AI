@@ -1,1 +1,1 @@
-# Antifungal-rug-discovery-using-AI-and-bioinformatics
+# Antifungal-Drug-discovery-using-AI-and-bioinformatics
