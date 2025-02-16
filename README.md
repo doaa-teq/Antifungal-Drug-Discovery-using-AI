@@ -12,9 +12,7 @@ This project leverages **artificial intelligence (AI) and machine learning (ML)*
 ## Features
 - **Data Preprocessing**: Handling and cleaning molecular datasets.
 - **Descriptor Calculation**: Extracting molecular features using cheminformatics libraries.
-- **Machine Learning Model Training**: Building classification/regression models to predict antifungal activity.
-- **Molecular Docking**: Screening candidate drugs against fungal protein targets.
-- **Visualization**: Graphical representation of compound efficacy and docking scores.
+- **Machine Learning Model**: Building classification model to classify antifungal drugs.
 
 
 ### Required Libraries
